@@ -1,2 +1,3 @@
 # stepik---auto-tests-course
-homework of the course
+<<здесь должна быть ссылка на курс STEPIK>>
+ 
